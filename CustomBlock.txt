@@ -1,1 +1,18 @@
+! My custom ad block list
+! Last update: 2025-05-04
 
+||doubleclick.net^
+||googlesyndication.com^
+||ads.facebook.com^
+||tracking.example.com^
+
+! Chặn popup quảng cáo phổ biến
+||popads.net^
+||adf.ly^
+||adclick.g.doubleclick.net^
+
+||graph.facebook.com
+||lp.zingmp3.vn
+||^.*graph\.facebook\.com$
+||^.*graph\.facebook\.com$
+||^.*lp\.zingmp3\.vn$
