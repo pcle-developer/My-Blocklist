@@ -1,18 +1,15 @@
-! My custom ad block list
-! Last update: 2025-05-04
+! My custom ad block list - Cleaned by Po
+! Last update: 2026-08-15
 
+! Mạng quảng cáo & Tracking lớn
 ||doubleclick.net^
 ||googlesyndication.com^
 ||ads.facebook.com^
 ||tracking.example.com^
+||graph.facebook.com^
+||lp.zingmp3.vn^
 
-! Chặn popup quảng cáo phổ biến
+! Chặn popup quảng cáo độc hại
 ||popads.net^
 ||adf.ly^
 ||adclick.g.doubleclick.net^
-
-||graph.facebook.com
-||lp.zingmp3.vn
-||^.*graph\.facebook\.com$
-||^.*graph\.facebook\.com$
-||^.*lp\.zingmp3\.vn$
