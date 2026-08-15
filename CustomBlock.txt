@@ -1,15 +1,19 @@
-! My custom ad block list - Cleaned by Po
+! My custom ad block list - Cleaned & Optimized by Po
 ! Last update: 2026-08-15
 
 ! Mạng quảng cáo & Tracking lớn
 ||doubleclick.net^
 ||googlesyndication.com^
 ||ads.facebook.com^
-||tracking.example.com^
-||graph.facebook.com^
 ||lp.zingmp3.vn^
 
-! Chặn popup quảng cáo độc hại
+! Chặn tracking / Ads bổ sung riêng cho Việt Nam & TikTok
+||analytics.tiktok.com^
+||log.byteoversea.com^
+||adservice.google.com.vn^
+||adservice.google.com^
+
+! Chặn popup quảng cáo độc hại & Rút gọn link rác
 ||popads.net^
 ||adf.ly^
 ||adclick.g.doubleclick.net^
