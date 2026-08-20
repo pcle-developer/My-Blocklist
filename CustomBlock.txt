@@ -1,19 +1,53 @@
-! My custom ad block list - Cleaned & Optimized by Po
-! Last update: 2026-08-15
+# =========================================================
+# PI & PO CUSTOM AD-BLOCKLIST FOR VIETNAM APPS
+# Format: Domain list for Cloudflare Zero Trust
+# Target: Zing MP3, PureTube Ad SDKs, TikTok Ads, FB AN
+# =========================================================
 
-! Mạng quảng cáo & Tracking lớn
-||doubleclick.net^
-||googlesyndication.com^
-||ads.facebook.com^
-||lp.zingmp3.vn^
+# --- [1] ZING MP3 & VNG ECOSYSTEM ADS ---
+ad.zing.vn
+ad.zap.vn
+zads.vn
+sdk.zads.vn
+track.zing.vn
+logging.zing.vn
+lg1.logging.zadn.vn
+zads-ad-cdn.zadn.vn
+ad.zalopay.vn
 
-! Chặn tracking / Ads bổ sung riêng cho Việt Nam & TikTok
-||analytics.tiktok.com^
-||log.byteoversea.com^
-||adservice.google.com.vn^
-||adservice.google.com^
+# --- [2] VIETNAM LOCAL AD NETWORKS (ADMICRO, ANTS, ECLICK) ---
+ants.vn
+eclick.vn
+admicro.vn
+ad.admicro.vn
+mediavane.vn
+novanet.vn
+ambient-platform.com
+st.core.adtima.vn
 
-! Chặn popup quảng cáo độc hại & Rút gọn link rác
-||popads.net^
-||adf.ly^
-||adclick.g.doubleclick.net^
+# --- [3] TIKTOK ADS & TRACKING SDKS ---
+ads.tiktok.com
+analytics.tiktok.com
+log-va.tiktokv.com
+log.byteoversea.com
+ads-sg.tiktok.com
+business-api.tiktok.com
+mon-va.byteoversea.com
+
+# --- [4] PURETUBE & IN-APP POPUP AD SDKS (UNITY, APPLOVIN, ADMOB) ---
+pagead2.googlesyndication.com
+googleads.g.doubleclick.net
+adservice.google.com
+ads.applovin.com
+cdn.vungle.com
+init.supersonicads.com
+a.unity3d.com
+ads.mopub.com
+ads.inmobi.com
+sdk.tapjoy.com
+api.adcolony.com
+
+# --- [5] FACEBOOK AUDIENCE NETWORK & TELEMETRY ---
+an.facebook.com
+pixel.facebook.com
+facebook-hardware.com
